@@ -1,0 +1,16 @@
+/build/
+CMakeCache.txt
+cmake-build-*/
+CMakeFiles/
+Makefile
+cmake_install.cmake
+Testing/
+CTestTestfile.cmake
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+quakefloat
+*~
