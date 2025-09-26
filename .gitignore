@@ -14,3 +14,4 @@ CTestTestfile.cmake
 *.dylib
 quakefloat
 *~
+codex_resume.sh
